@@ -1,0 +1,5 @@
+require_relative 'scrabble_word_placement'
+require_relative 'scrabble_game'
+require_relative 'scrabble_reader'
+require_relative 'scrabble_printer'
+require_relative 'scrabble_tiles'
