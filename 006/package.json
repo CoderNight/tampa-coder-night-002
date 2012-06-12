@@ -1,0 +1,15 @@
+{
+  "name": "coder_night_2",
+  "version": "0.0.1",
+  "main": "app.js",
+  "description": "Scrabble thingy",
+  "author": {
+    "name": "Tyler Johnston",
+    "url": "http://tylerjohnst.github.com/",
+    "email": "tylerjohnst@gmail.com"
+  },
+  "dependencies": {
+    "underscore"  : "*",
+    "vows" : "*"
+  }
+}
